@@ -1,0 +1,33 @@
+
+body{ 
+	padding-top: 70px; 
+}
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+
+}
+
+.navbar-brand h1{
+	margin: 0;
+}
+
+
+#nav-list li{
+	background-color: #FFFFFF;
+	width: 100%;
+}
+#nav-list a{
+  text-align: center;
+}
+#principal{
+	margin: auto;
+	background-color: #A4A4A4;
+	border: 1px solid black;
+	height: 1000px;
+	width: 85%;
+	font-size: 1.2em;
+}
+
+#principal p{
+	padding: 25px;
+}
