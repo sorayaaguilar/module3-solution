@@ -2,13 +2,17 @@
 body{ 
 	padding-top: 70px; 
 }
+
+#header-nav{
+	height: 70px;
+}
 .navbar-brand a:hover, .navbar-brand a:focus {
   text-decoration: none;
 
 }
 
 .navbar-brand h1{
-	margin: 0;
+	margin: 5px;
 }
 
 
